@@ -124,6 +124,6 @@ npx nodemon
 If you have any suggestions or want to contribute, feel free to contact:
 
 **Developer:** \[Himanshu Singh]
-**Email:** [your.email@example.com](mailto:himanshujrs6@gmail.com)
+**Email:** [himanshujrs6@gmail.com](mailto:himanshujrs6@gmail.com)
 **LinkedIn:** \[https://www.linkedin.com/in/himanshu-singh-079503228/]
 ---
