@@ -1,0 +1,25 @@
+@import "tailwindcss";
+/* BlogCarousel.css */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+@keyframes borderPulse {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-borderPulse {
+  animation: borderPulse 4s ease infinite;
+  background-size: 200% 200%;
+}
